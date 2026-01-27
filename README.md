@@ -14,7 +14,7 @@
 
 ---
 
-部分资料来源，感谢开源贡献者们😇：
+部分资料来源如下，感谢开源贡献者们😇：
 
 [ETAOIK/UCAS_Pattern-Recognition_2023Fall: 中国科学院大学2023Fall-模式识别课程作业与期末真题](https://github.com/ETAOIK/UCAS_Pattern-Recognition_2023Fall)
 
