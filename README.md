@@ -11,3 +11,15 @@
 | 航天器设计概论       | 25考点总结                                | 张华春       |
 | 模式识别原理与方法   | **17-19、23考题、25考题回忆**、25考点总结 | 张煦尧、徐健 |
 | 计算机网络           | **16、19、20、23考题**、25考点总结        | 孙毅、张瀚文 |
+
+---
+
+部分资料来源，感谢开源贡献者们😇：
+
+[ETAOIK/UCAS_Pattern-Recognition_2023Fall: 中国科学院大学2023Fall-模式识别课程作业与期末真题](https://github.com/ETAOIK/UCAS_Pattern-Recognition_2023Fall)
+
+[6e1f0/UCAS模式识别期末复习.zip · 开源工具包/国科大模式识别期末复习资料 - AtomGit | GitCode](https://gitcode.com/open-source-toolkit/6e1f0/commit/b8f151ffe0f380c0f96b250f913b37fb99130a37?ref=main)
+
+[24国科大《计算机网络》孙毅期末复习、往年真题、24真题_国科大计算机网络期末考试-CSDN博客](https://blog.csdn.net/qq_52773981/article/details/145142577)
+
+[国科大计算机网络复习 孙老师_计算机网络笔记网盘-CSDN博客](https://blog.csdn.net/qq_52394082/article/details/145170866)
