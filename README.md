@@ -20,6 +20,16 @@
 
 [6e1f0/UCAS模式识别期末复习.zip · 开源工具包/国科大模式识别期末复习资料 - AtomGit | GitCode](https://gitcode.com/open-source-toolkit/6e1f0/commit/b8f151ffe0f380c0f96b250f913b37fb99130a37?ref=main)
 
+[2023国科大计算机网络习题回忆加总结_国科大计算机网络大作业-CSDN博客](https://blog.csdn.net/qq_40925617/article/details/135694845)
+
 [24国科大《计算机网络》孙毅期末复习、往年真题、24真题_国科大计算机网络期末考试-CSDN博客](https://blog.csdn.net/qq_52773981/article/details/145142577)
 
+[2024国科大计算机网络 - 知乎](https://zhuanlan.zhihu.com/p/17897680879)
+
+[国科大计算机网络题目加答案 - AtomGit | GitCode](https://gitcode.com/Open-source-documentation-tutorial/32dc2/blob/main/计算机网络题目参考答案（wy修正）.pdf)
+
 [国科大计算机网络复习 孙老师_计算机网络笔记网盘-CSDN博客](https://blog.csdn.net/qq_52394082/article/details/145170866)
+
+[国科大24秋季学期计算机网络0812期末考试题回忆_国科大计算机网络期末考试-CSDN博客](https://blog.csdn.net/weixin_53087252/article/details/145290058?ops_request_misc=elastic_search_misc&request_id=775f6c1f23b3af8a4de865e9c69e4e67&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-5-145290058-null-null.142^v102^pc_search_result_base3&utm_term=国科大计算机网络习题&spm=1018.2226.3001.4187)
+
+
